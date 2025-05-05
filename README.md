@@ -36,7 +36,7 @@ using the IWISS 3220M crimp tool.
   - [Step 2: Strip the Wire](#step-2-strip-the-wire)
   - [Step 3: Insert Terminal into Crimps](#step-3-insert-terminal-into-crimps)
   - [Step 4: (Optional) Squeeze Crimps to First Click](#step-4-optional-squeeze-crimps-to-first-click)
-  - [Step 5: Insert Terminal onto Wire](#step-5-insert-terminal-onto-wire)
+  - [Step 5: Insert Wire into Terminal](#step-5-insert-wire-into-terminal)
   - [Step 6: Crimp the Terminal](#step-6-crimp-the-terminal)
   - [Step 7: Verify Crimp Success](#step-7-verify-crimp-success)
   - [Step 8: Insert Terminal into Connector Housing](#step-8-insert-terminal-into-connector-housing)
