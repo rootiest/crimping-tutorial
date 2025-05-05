@@ -126,7 +126,7 @@ Once again, ensure the connector stays aligned and properly oriented.
 
 ---
 
-## Step 5: Insert Terminal onto Wire
+## Step 5: Insert Wire into Terminal
 
 Insert the stripped wire into the JST-PH terminal.  
 Ensure all the wire strands are inside the crimp area.  
@@ -152,6 +152,9 @@ The terminal should now be securely crimped to the wire.
 Do not squeeze **_TOO_** hard and do not squeeze too little.  
 The handle ratchet should release when you have squeezed enough.
 
+Squeezing too hard may damage the connector or the wire.  
+Squeexing too little may not crimp the connector securely.
+
 ![Crimp Terminal](resources/complete-squeeze_1.jpg)
 ![Crimp Terminal](resources/complete-squeeze_2.jpg)
 
@@ -160,7 +163,7 @@ The handle ratchet should release when you have squeezed enough.
 ## Step 7: Verify Crimp Success
 
 Check that the wire is securely crimped.  
-Ensure the connector pin end has not been damaged.
+Ensure the connector pin end has not been damaged.  
 The insulation should be crimped under the wings.
 
 See the [Bad Crimps](#bad-crimps) section for examples of bad crimp jobs.
@@ -171,7 +174,7 @@ This is a successful, secure crimp:
 ## Step 8: Insert Terminal into Connector Housing
 
 Insert the crimped terminal into the JST-PH connector housing
-until it clicks into place.
+until it clicks into place.  
 Ensure it is inserted in the correct orientation.
 
 See the [Wrong Orientation](#wrong-orientation-in-housing) section
@@ -206,7 +209,7 @@ The following are examples of common mistakes made when crimping.
 
 ### Bad Crimps
 
-The following are examples of poorly crimped connectors:
+The following are poorly crimped connectors:
 
 - This terminal connector end was damaged because it was
   inserted too far into the crimp tool.  
