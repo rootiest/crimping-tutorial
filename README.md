@@ -63,9 +63,11 @@ using the IWISS 3220M crimp tool.
 - Wire (typically 28-26 AWG)  
   ![Wire Sample](resources/wire.jpg)
 
-- Wire Stripper Tool  
-  ![Wire Stripper (Automatic)](resources/wire-stripper-a.jpg)
-  ![Wire Stripped (Manual)](resources/wire-stripper-b.jpg)
+- Wire Stripper Tool (Automatic or Manual)
+  - Automatic Wire Stripper
+    ![Wire Stripper (Automatic)](resources/wire-stripper-a.jpg)
+  - Manual Wire Stripper
+    ![Wire Stripped (Manual)](resources/wire-stripper-b.jpg)
 
 ---
 
