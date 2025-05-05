@@ -27,6 +27,26 @@ using the IWISS 3220M crimp tool.
 
 ---
 
+## Table of Contents
+
+- [Crimping a JST-PH Connector with an IWISS 3220M](#crimping-a-jst-ph-connector-with-an-iwiss-3220m)
+  - [Table of Contents](#table-of-contents)
+  - [Tools and Materials](#tools-and-materials)
+  - [Step 1: Cut the Wire](#step-1-cut-the-wire)
+  - [Step 2: Strip the Wire](#step-2-strip-the-wire)
+  - [Step 3: Insert Terminal into Crimps](#step-3-insert-terminal-into-crimps)
+  - [Step 4: (Optional) Squeeze Crimps to First Click](#step-4-optional-squeeze-crimps-to-first-click)
+  - [Step 5: Insert Terminal onto Wire](#step-5-insert-terminal-onto-wire)
+  - [Step 6: Crimp the Terminal](#step-6-crimp-the-terminal)
+  - [Step 7: Verify Crimp Success](#step-7-verify-crimp-success)
+  - [Step 8: Insert Terminal into Connector Housing](#step-8-insert-terminal-into-connector-housing)
+  - [Step 9: Finished Assembly](#step-9-finished-assembly)
+  - [Troubleshooting](#troubleshooting)
+    - [Bad Crimps](#bad-crimps)
+    - [Wrong Orientation in Housing](#wrong-orientation-in-housing)
+
+---
+
 ## Tools and Materials
 
 - IWISS 3220M crimp tool  
