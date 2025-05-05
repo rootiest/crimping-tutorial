@@ -20,9 +20,10 @@
  SOFTWARE.
 -->
 
-# Crimping a JST-PH Connector with an IWISS 3220M Crimp Tool
+# Crimping a JST-PH Connector with an IWISS 3220M
 
-This tutorial will guide you through the steps to crimp a JST-PH connector using the IWISS 3220M crimp tool.
+This tutorial will guide you through the steps to crimp a JST-PH connector
+using the IWISS 3220M crimp tool.
 
 ---
 
@@ -147,10 +148,12 @@ This is a successful, secure crimp:
 
 ## Step 8: Insert Terminal into Connector Housing
 
-Insert the crimped terminal into the JST-PH connector housing until it clicks into place.
+Insert the crimped terminal into the JST-PH connector housing
+until it clicks into place.
 Ensure it is inserted in the correct orientation.
 
-See the [Wrong Orientation](#wrong-orientation-in-housing) section for the incorrect orientation.
+See the [Wrong Orientation](#wrong-orientation-in-housing) section
+for the incorrect orientation.
 
 This is the correct orientation for a JST-PH connector:
 ![Insert Terminal into Housing](resources/correct-orientation.jpg)
@@ -168,7 +171,12 @@ Note that the little notch/tail locks securely onto the plastic.
 
 ---
 
-Congratulations! You have successfully crimped a JST-PH connector using the IWISS 3220M crimp tool.
+🎉 Congratulations!
+
+You have successfully crimped a JST-PH connector
+using the IWISS 3220M crimp tool.
+
+---
 
 ## Troubleshooting
 
